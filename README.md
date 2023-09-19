@@ -6,7 +6,7 @@
 
 🏃‍♂️ 목표 
 
-> 불확실성하의 선택에서 의사결정을 도와주는 데이터를 모든 사람들이 쉽게 이해할 수 있도록 하는 데이터 분석가가 되고 싶습니다.
+> 데이터 분석 뿐만아니라 Data Engineering 지식도 갖춘 Data Full Stack 전문가가 되고싶습니다.
 
 <div><p>📈Data Analysis Tool </p> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></div>
 <br>
