@@ -4,7 +4,7 @@ Welcome to my Github page. I'm minjae studying for master degree of Economics at
 
 🏃‍♂️ Research Interest
 
-> Data Science, Decision-Making, Applied Economics, Business Analysis
+> Data Science, Decision-Making, Econometrics, ML / DL
 
 
   
