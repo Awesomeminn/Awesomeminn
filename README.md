@@ -4,7 +4,7 @@ Welcome to my Github page. I'm Minjae studying for master degree of Economics at
 
 ## 🏃‍♂️ Research Interest
 
-> Data Science, Applied Econometrics, AI
+> Data Science, Applied Econometrics, AI, Causal Inference
 
 ## 🚀 Tech Stack
 
