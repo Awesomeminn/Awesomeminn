@@ -4,7 +4,7 @@ Thank you for visiting my Github page. I'm Minjae studying for master degree of 
 
 ## 🏃‍♂️ Research Interest
 
-> Data Science, Applied Econometrics, AI, Causal Inference
+> Time Series Analysis (specialized in Economics and Finance)
 
 ## 🚀 Tech Stack
 
